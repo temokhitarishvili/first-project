@@ -1,0 +1,32 @@
+.form_wrapper{
+    width: 350px;
+    margin: 0 auto;
+    padding: 30px 0 30px 30px;
+    box-sizing: border-box;
+    margin-top: 250px;
+    background-color: rgba(255, 255, 255,0.5);
+    border-radius: 10px;
+}
+
+.inputs{
+width: 250px;
+border-radius: 10px;
+height: 20px;
+margin: 5px 0;
+}
+.main_container{
+    background-color: green;
+}
+body{
+    background-color: green;
+}
+.button_s{
+    cursor: pointer;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.checkbox{
+    margin: 5px 0;
+}
